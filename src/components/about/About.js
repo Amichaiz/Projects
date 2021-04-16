@@ -15,7 +15,7 @@ const App = () => {
         <p className='aboutp'>Other Projects include:</p>
         <p className='aboutp'><a href="https://amichaiz.github.io/currency/" target="_blank" rel='noreferrer'>Currency Converter</a> Using an API and simple Math conditions to convert Money by current rates.</p>
         <p className='aboutp'><a href="https://amichaiz.github.io/snake/" target="_blank" rel='noreferrer'>Snake Game</a> Build during my first Hackathon in Developers Institute.</p>
-        <p className='aboutp'><a href="https://boat-prime.herokuapp.com/" target="_blank" rel='noreferrer'>Boat Prime</a> Final Project in Developers Institute. Created a basic platform for selling/purchesing boats. Includes- npm server, database created in React</p>
+        <p className='aboutp'><a href="https://boat-prime.herokuapp.com/" target="_blank" rel='noreferrer'>Boat Prime</a> Final Project in Developers Institute. Created a basic platform for selling/purchasing boats. Includes- npm server, database created in React</p>
         </>
     )
 }

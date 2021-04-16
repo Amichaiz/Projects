@@ -1,0 +1,66 @@
+.funk{
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to left top,#00f,red) 50% fixed;
+  background-size: cover;
+  color: #fff;
+  height: 50px;
+  text-shadow: 0.25px 0.25px 0.25px #000;
+  width: 100%;
+  text-align: center;
+  margin: 0 0 20px;
+  padding-left: 20px;
+  font-weight: 700;
+  font-size: 1.5rem;
+
+}
+.papa{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.card{
+  background: #fff;
+  border: 5px solid #fff;
+  border-radius: 2px;
+  margin: 40px 20px;
+  position: relative;
+  height: 300px;
+  width: 250px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  transition: box-shadow .1s ease-in-out;
+  text-align: left;
+ 
+}
+.card:hover {
+  box-shadow: 0 12px 24px #999, 0 12px 24px #999;
+  height: 300px;
+  width: 250;
+  cursor: pointer;
+}
+.card>img {
+  width: 80%;
+  height: 80%;
+  overflow: hidden;
+}
+.su-header{
+  background-color: red;
+  color: whitesmoke;
+  font-size: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+  font-weight: 500;
+  
+}
+.left{
+  text-align: right;
+  margin-right: 10%;
+}
+h5{
+  margin:0;
+}
+.mem-img{
+  margin-left: auto;
+  margin-right: auto;
+}

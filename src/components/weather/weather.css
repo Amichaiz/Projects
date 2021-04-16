@@ -1,0 +1,90 @@
+.fullme{
+    padding-top: 10px;
+    padding-bottom: 7px;
+    
+}
+  .we-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+  }
+
+  .we-main {
+    height: 90vh;
+    background: #fff;
+    box-shadow: 0 13px 40px -13px rgb(0 0 0 / 75%);
+    width: 80%;
+    margin: 25px auto;
+  }
+  .weh1 {
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin: 0;
+  }
+  .wep {
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 31px;
+    margin: 0;
+  }
+  
+  .we-inner {
+      background-color: #2c3e50;
+      height: 58vh;
+      width: 90%;
+      padding-top: 50px;
+      padding-left: 50px;
+      margin-top: 20px;
+  }
+  
+  .weinput {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #f16051;
+    width: 30%;
+    padding-bottom: 4px;
+    color: #fff!important;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+    outline: none;
+    overflow: visible;
+  }
+  .we-button {
+    border: 0;
+    padding: 8px 20px;
+    margin: 0 2px;
+    border-radius: 2px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #f16051;
+    color: #fff;
+    font-weight: 100;
+  }
+  .we-h4{
+    border: 0;
+    border-bottom: 1px solid #f8a8a1;
+    width: 80%;
+    padding-bottom: 4px;
+    color: whitesmoke;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+  }
+  .we-strong{
+    color: #f16051;
+  }

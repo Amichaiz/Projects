@@ -1,0 +1,28 @@
+.q-but{
+    margin: 20px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    font-weight: 700;
+    font-family: "Segoe UI","Tahoma","Geneva","Verdana",sans-serif;
+    cursor: pointer;
+    border: 0;
+}
+.q-author {
+  margin: 20px;
+  font-style: italic;
+}
+.q-quote {
+  margin: 20px;
+  text-align: left;
+}
+.q-box {
+    height: auto;
+    width: 100%;
+    border: 1px solid #917e7e;
+    border-radius: 10px;
+    text-align: right;
+    max-width: 35rem;
+    margin: 100px auto 0;
+    
+}
